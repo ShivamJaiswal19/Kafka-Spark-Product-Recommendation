@@ -3,8 +3,7 @@
 __pycache__/
 .DS_Store
 kafka_2.13-2.7.0.tgz
-spark-3.0.1-bin-hadoop3.2.tgz
-spark-3.4.4-bin-hadoop3/jars/rocksdbjni-7.9.2.jar
-spark-3.4.4-bin-hadoop3/yarn/spark-3.4.4-yarn-shuffle.jar
+
+
 
 
